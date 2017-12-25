@@ -1,3 +1,23 @@
+
+
+  
+  .pin-top {
+    position: relative;
+     
+  }
+
+  // Class for when element is below threshold
+  .pin-bottom {
+    position: relative;
+  }
+
+ 
+  .pinned {
+    position: fixed !important;
+   width:97.5%
+
+  }
+
 input[type=text], input[type=password] {
     width: 50%;
     padding: 10px 10px;
@@ -36,3 +56,5 @@ img.avatar {
 p {
   float: right;
 }
+
+
